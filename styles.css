@@ -31,7 +31,7 @@ body {
 
 .profile-photo {
     border-radius: 10%;
-    width: 30%;
+    width: 100%;
     margin: 20px 0;
     object-fit: cover;
 }
