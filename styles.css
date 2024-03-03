@@ -86,7 +86,7 @@ body {
 	overflow-x: hidden;
 	overflow-y: auto;
 	text-align: justify;
-	text-indent: -2em;
+	text-indent: -1vw;
 	line-height: 1.6;
 	padding: 100px;
 }
@@ -167,6 +167,11 @@ body {
     grid-column: 2;
 }
 
+.line-3-column-3 {
+    grid-row: 3;
+    grid-column: 3;
+}
+
 .line-4-column-1 {
     grid-row: 4;
     grid-column: 1;
@@ -175,6 +180,11 @@ body {
 .line-4-column-2 {
     grid-row: 4;
     grid-column: 2;
+}
+
+.line-4-column-3 {
+    grid-row: 4;
+    grid-column: 3;
 }
 
 nav {
