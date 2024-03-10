@@ -35,6 +35,7 @@ body {
     flex-direction: column;
     gap: 10%;
 	text-align: left;
+	line-height: 1.5;
 }
 .navigation-index a {
     text-decoration: none;
