@@ -85,7 +85,7 @@ a {
 /* Index -----------------------------------------------------------*/
 .grid-index {
   display: grid;
-  grid-template-columns: 9% 40% auto;
+  grid-template-columns: 11% 40% auto;
   gap: 3%;
   background-color: rgba(255, 255, 255, 0.8);
   padding: 3%;
@@ -97,7 +97,7 @@ a {
 /* Teaching and research -------------------------------------------*/
 .grid-teach-research {
   display: grid;
-  grid-template-columns: 9% 40% auto;
+  grid-template-columns: 11% 40% auto;
   gap: 3%;
   background-color: rgba(255, 255, 255, 0.8);
   padding: 3%;
